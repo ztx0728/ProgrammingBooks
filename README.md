@@ -5,11 +5,14 @@
 - Pattern Recognition and Machine Learning
 - Neural Network and Deep Learning-eng
 - Neural Network and Deep Learning-ch
+- Tensorflow
+- 机器学习进阶笔记（大U的技术课堂）
 
 ## C/C++
 
 
 ## Java
+- IntelliJ IDEA中文文档
 - 算法 第4版 谢路云
 
 ## Linux
@@ -38,3 +41,4 @@
 - 机器学习实战
 - Python 3网络爬虫开发实战-崔庆才
 - 用Python写网络爬虫
+- 从Python到Django入门教程
