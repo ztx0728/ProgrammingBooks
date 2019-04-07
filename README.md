@@ -10,14 +10,3 @@
 [NLP](https://github.com/cunyu1943/ProgrammingBooks/blob/master/NLP/NLP.md)
 
 [Python](https://github.com/cunyu1943/ProgrammingBooks/blob/master/Python/Python.md)
-
-
-
-
-
-
-
-
-
-
-
