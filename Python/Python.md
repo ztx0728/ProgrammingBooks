@@ -15,3 +15,4 @@
 - Python 3网络爬虫开发实战-崔庆才
 - 用Python写网络爬虫
 - 从Python到Django入门教程
+- Python编程：从入门到实践
