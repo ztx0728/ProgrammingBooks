@@ -1,4 +1,7 @@
 # 收集编程相关的书籍及笔记，长期持续更新...
+
+如果对您有帮助，请右上角“star”或“fork”表示支持！
+
 [AI](https://github.com/cunyu1943/ProgrammingBooks/blob/master/AI/AI.md)
 
 [C/C++](https://github.com/cunyu1943/ProgrammingBooks/blob/master/C%26C%2B%2B/C%26C%2B%2B.md)
