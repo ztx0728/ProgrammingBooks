@@ -1,20 +1,27 @@
+<<<<<<< HEAD
+#  PDF 教程
+=======
 # 收集编程相关的书籍及笔记，长期持续更新...
 
 如果对您有帮助，请右上角“star”或“fork”表示支持！
 
 [AI](https://github.com/cunyu1943/ProgrammingBooks/blob/master/AI/AI.md)
+>>>>>>> 9d0811f515bd609f086789219824b895f52827cc
 
-[C/C++](https://github.com/cunyu1943/ProgrammingBooks/blob/master/C%26C%2B%2B/C%26C%2B%2B.md)
+此文件加用于保存 PDF 资料；
 
-[Database](https://github.com/cunyu1943/ProgrammingBooks/blob/master/Database/Database.md)
+## AI
 
-[Java](https://github.com/cunyu1943/ProgrammingBooks/blob/master/Java/Java.md)
+机器学习、深度学习相关；
 
-[Linux](https://github.com/cunyu1943/ProgrammingBooks/blob/master/Linux/Linux.md)
+## Linux
 
-[NLP](https://github.com/cunyu1943/ProgrammingBooks/blob/master/NLP/NLP.md)
+Linux相关；
 
-[Python](https://github.com/cunyu1943/ProgrammingBooks/blob/master/Python/Python.md)
+## 算法
 
-[面试](https://github.com/cunyu1943/ProgrammingBooks/blob/master/%E9%9D%A2%E8%AF%95/%E9%9D%A2%E8%AF%95.md)
+算法刷题相关；
 
+## Java
+
+Java学校相关；
